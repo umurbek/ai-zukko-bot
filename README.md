@@ -19,5 +19,5 @@ It supports chat responses using an AI API (e.g., Gemini/OpenAI) and stores user
 ## Setup
 1) Clone the repo:
 ```bash
-git clone https://github.com/USERNAME/ai-zukko-bot.git
+git clone https://github.com/umurbek/ai-zukko-bot.git
 cd ai-zukko-bot
